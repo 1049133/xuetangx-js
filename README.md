@@ -1,3 +1,7 @@
+> **项目已独立发布：请访问 [1049133/xuetangx-autolearn](https://github.com/1049133/xuetangx-autolearn)。**
+> 本仓库保留 Fork 历史及旧安装地址兼容；后续开发与版本发布迁移到独立仓库。
+> [安装或更新最新版脚本](https://raw.githubusercontent.com/1049133/xuetangx-autolearn/main/userscripts/xuetangx-autolearn.user.js) · [油猴安装指南](https://github.com/1049133/xuetangx-autolearn#安装指南)
+
 # 学堂在线脚本｜XuetangX 油猴脚本 · 新版适配
 
 适用于学堂在线（xuetangx.com）的 **Tampermonkey 油猴脚本**，提供视频自动播放、自动 2 倍速、自动静音、未完成视频识别和章节自动切换。支持新版知识点目录及旧版课程目录，当前版本 **v1.7.1**。
